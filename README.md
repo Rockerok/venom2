@@ -1,4 +1,4 @@
-# venom2 ученый проект Glo Akademy
+# venom2 учебный проект Glo Akademy
 ## Исполнитель - Rockerok
 
 Использовано:
