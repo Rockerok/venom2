@@ -6,3 +6,5 @@
 - CSS
 - JavaScript
 - Normalize
+
+Проект сайта на Figma
